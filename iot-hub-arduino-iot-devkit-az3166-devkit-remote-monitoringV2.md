@@ -38,16 +38,19 @@ An active Azure subscription. If you do not have one, you can register via one o
 ## Create an Azure IoT Suite
 
 1. Go to [Azure IoT Suite site](https://www.azureiotsuite.com/) and click **Create a new solution**.
+
   ![Select Azure IoT Suite type](media/iot-hub-arduino-iot-devkit-az3166-devkit-remote-monitoringv2/azure-iot-suite-v2-solution-types.png)
  
 
 2. Select **Remote monitoring preview**.
 
 3. Enter a solution name, select a subscription and a region, and then click **Create solution**. The solution may take a while to be provisioned.
+
   ![Create solution](media/iot-hub-arduino-iot-devkit-az3166-devkit-remote-monitoringv2/azure-iot-suite-create-remote-monitoring-preview-solution.png)
 
 
 4. After the provision is completed, click **Launch**. Some simulated devices are created for the solution during the provision process. Click **DEVICES** to check them out.
+
   ![Dashboard](media/iot-hub-arduino-iot-devkit-az3166-devkit-remote-monitoringv2/azure-iot-suite-new-solution-created.png)
 
   ![Console](media/iot-hub-arduino-iot-devkit-az3166-devkit-remote-monitoringv2/azure-iot-suite-console.png)
